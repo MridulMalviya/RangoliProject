@@ -1,0 +1,498 @@
+[
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r8.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r8.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lamp_off.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\lamp_off.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r17.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r17.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r5.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r5.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r13.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r13.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r4.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r4.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r16.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r16.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r15.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r15.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bell_2.png",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\bell_2.png"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r18.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r18.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r9.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r9.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r20.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r20.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r6.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r6.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r11.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r11.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r14.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r14.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rangoli8.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\rangoli8.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r22.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r22.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rangoli1.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\rangoli1.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r7.JPG",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r7.JPG"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rangoli7.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\rangoli7.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon.png",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\share_icon.png"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r10.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r10.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r19.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r19.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bell_1.png",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\bell_1.png"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r13.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r13.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\puja.png",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\puja.png"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r1.JPG",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r1.JPG"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r16.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r16.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r3.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r3.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r20.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r20.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rangoli12.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\rangoli12.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r9.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r9.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow.png",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\arrow.png"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r6.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r6.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r4.JPG",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r4.JPG"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r19.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r19.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r22.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r22.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rangoli4.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\rangoli4.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r25.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r25.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rangoli15.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\rangoli15.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r24.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r24.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rangoli3.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\rangoli3.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r23.JPG",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r23.JPG"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r21.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r21.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lamp.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\lamp.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r10.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r10.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bell_top_left_h.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\bell_top_left_h.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rangoli14.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\rangoli14.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bell_top_left.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\bell_top_left.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img.png",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\img.png"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r8.png",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r8.png"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lamp_on.png",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\lamp_on.png"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lamp1.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\lamp1.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lamp_off2.png",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\lamp_off2.png"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rangoli13.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\rangoli13.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r26.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r26.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rangoli5.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\rangoli5.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rangoli2.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\rangoli2.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r3.JPG",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r3.JPG"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r23.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r23.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r12.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r12.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r17.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r17.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_arrow.png",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\right_arrow.png"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rangoli16.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\rangoli16.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r5.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r5.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r7.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r7.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lamp_off.png",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\lamp_off.png"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r2.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r2.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rangoli9.png",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\rangoli9.png"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mala_btn.png",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\mala_btn.png"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r27.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r27.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r21.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r21.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mala.png",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\mala.png"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rangoli6.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\rangoli6.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rangoli11.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\rangoli11.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left_arrow.png",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\left_arrow.png"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r1.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r1.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r14.JPG",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r14.JPG"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r15.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r15.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r18.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r18.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r11.JPG",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r11.JPG"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flower_r12.jpg",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\flower_r12.jpg"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_dots_r2.JPG",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\pattern_dots_r2.JPG"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bell_3.png",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\src\\main\\res\\drawable\\bell_3.png"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    }
+]

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.MainActivity">
+
+    <item
+        android:id="@+id/normalPattern"
+        android:orderInCategory="100"
+        android:title="@string/pattern_normal"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/dotPattern"
+        android:orderInCategory="100"
+        android:title="@string/pattern_dot"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/flowerPattern"
+        android:orderInCategory="100"
+        android:title="@string/pattern_flower"
+        app:showAsAction="never" />
+    <!--
+
+        <item android:id="@+id/linearViewVertical"
+              android:title="@string/LinearViewVertical"
+              android:orderInCategory="100"
+              app:showAsAction="never"/>
+
+       &lt;!&ndash; <item android:id="@+id/gridView"
+              android:title="Grid View"
+              android:orderInCategory="100"
+              app:showAsAction="never"/>
+    &ndash;&gt;
+        <item android:id="@+id/staggeredViewHorizontal"
+              android:title="@string/StaggeredViewHorizontal"
+              android:orderInCategory="100"
+              app:showAsAction="never"/>
+
+        <item android:id="@+id/staggeredViewVertical"
+              android:title="@string/StaggeredViewVertical"
+              android:orderInCategory="100"
+              app:showAsAction="never"/>
+    -->
+
+    <item
+        android:id="@+id/gameCanvas"
+        android:orderInCategory="100"
+        android:title="@string/digital_pooja"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/shareButton"
+        android:icon="@drawable/share_icon"
+        android:title="@string/share"
+        app:showAsAction="ifRoom" />
+
+</menu>
