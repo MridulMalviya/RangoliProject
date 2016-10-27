@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Rangoli Archies</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="linearViewHorizontal">View 1</string>
+    <string name="StaggeredViewHorizontal">View 3</string>
+    <string name="StaggeredViewVertical">View 4</string>
+    <string name="LinearViewVertical">View 2</string>
+    <string name="share">Share Rangoli</string>
+    <string name="about_dev">About Us</string>
+    <string name="digital_pooja">Digital Pooja</string>
+    <string name="btn_close">Close</string>
+    <string name="pattern_dot">Dot Pattern</string>
+    <string name="pattern_flower">Flower Pattern</string>
+    <string name="pattern_normal">Normal Pattern</string>
+    <string name="msg_mala_start">Now, garland devote</string>
+    <string name="msg_ring_the_bell">Now, please ring the bell to start lord Laxmi pooja</string>
+    <string name="msg_after_mala_done">Now, please light lamp</string>
+    <string name="msg_aarti_done">Your Digital Arti is Done.</string>
+    <string name="msg_lamp_on">Now, start Lord Laxmi pooja, click on lamp again</string>
+
+</resources>

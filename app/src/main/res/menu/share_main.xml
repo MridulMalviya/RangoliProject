@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.MainActivity">
+    <!--  <item
+          android:id="@+id/shareButton"
+          android:icon="@drawable/share_icon"
+          android:title="@string/share"
+          app:showAsAction="ifRoom"/>
+
+      <item
+          android:id="@+id/aboutButton"
+          android:actionProviderClass="android.widget.ShareActionProvider"
+          app:showAsAction="never"
+          android:title="@string/about_dev"/>-->
+</menu>
+
+    <!--
+        android:actionProviderClass="android.widget.ShareActionProvider"-->
