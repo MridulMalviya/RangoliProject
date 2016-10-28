@@ -5,6 +5,11 @@
     tools:context=".activity.MainActivity">
 
     <item
+        android:id="@+id/festivalSpecial"
+        android:orderInCategory="100"
+        android:title="@string/pattern_festival_special"
+        app:showAsAction="never" />
+    <item
         android:id="@+id/normalPattern"
         android:orderInCategory="100"
         android:title="@string/pattern_normal"
@@ -19,6 +24,22 @@
         android:orderInCategory="100"
         android:title="@string/pattern_flower"
         app:showAsAction="never" />
+
+    <item
+        android:id="@+id/shareButton"
+        android:icon="@drawable/share_img"
+        android:title="@string/share"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/gameCanvas"
+        android:orderInCategory="100"
+        android:title="@string/digital_pooja"
+        app:showAsAction="never" />
+</menu>
+
+
+
+
     <!--
 
         <item android:id="@+id/linearViewVertical"
@@ -42,15 +63,4 @@
               app:showAsAction="never"/>
     -->
 
-    <item
-        android:id="@+id/gameCanvas"
-        android:orderInCategory="100"
-        android:title="@string/digital_pooja"
-        app:showAsAction="never" />
-    <item
-        android:id="@+id/shareButton"
-        android:icon="@drawable/share_icon"
-        android:title="@string/share"
-        app:showAsAction="ifRoom" />
 
-</menu>

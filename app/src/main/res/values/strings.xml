@@ -1,23 +1,32 @@
 <resources>
-    <string name="app_name">Rangoli Archies</string>
-
+    <string name="app_name"> </string>
+    <string name="app_name1">Rangoli Archies </string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="linearViewHorizontal">View 1</string>
-    <string name="StaggeredViewHorizontal">View 3</string>
-    <string name="StaggeredViewVertical">View 4</string>
-    <string name="LinearViewVertical">View 2</string>
     <string name="share">Share Rangoli</string>
     <string name="about_dev">About Us</string>
     <string name="digital_pooja">Digital Pooja</string>
     <string name="btn_close">Close</string>
-    <string name="pattern_dot">Dot Pattern</string>
-    <string name="pattern_flower">Flower Pattern</string>
-    <string name="pattern_normal">Normal Pattern</string>
+
+    <string name="pattern_dot">Dot Rangoli</string>
+    <string name="pattern_flower">Flower Rangoli</string>
+    <string name="pattern_normal">Modern Rangoli</string>
+    <string name="pattern_festival_special">Diwali Special Rangoli</string>
+
     <string name="msg_mala_start">Now, garland devote</string>
     <string name="msg_ring_the_bell">Now, please ring the bell to start lord Laxmi pooja</string>
     <string name="msg_after_mala_done">Now, please light lamp</string>
     <string name="msg_aarti_done">Your Digital Arti is Done.</string>
     <string name="msg_lamp_on">Now, start Lord Laxmi pooja, click on lamp again</string>
+    <string name="folder_name">RangoliArchies</string>
+    <string name="str_save_image_text">Your images has been saved in gallery at </string>
+    <string name="msg_title">Done with Digital Lord Laxmi Pooja</string>
+    <string name="msg_sub_title">Digital Lord Laxmi Pooja</string>
+    <string name="msg_description">This application enable you to worship lord Laxmi in digital way. As well you can get more rangolies as
+    as per occasions. Also you can share your design with your friends. Happy Diwali to you and your family.</string>
+    <string name="msg_app_playstore_url">http://malviya.site90.com/lord_pic/app.php</string>
+    <string name="msg_app_share_img">http://malviya.site90.com/lord_pic/lord.png</string>
 
 </resources>
+
+

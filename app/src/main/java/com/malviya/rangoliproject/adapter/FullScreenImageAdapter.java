@@ -11,14 +11,14 @@ import android.widget.Button;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.malviya.rangoliproject.data_model.Information;
 import com.malviya.rangoliproject.R;
+import com.malviya.rangoliproject.data_model.Information;
 import com.malviya.rangoliproject.utilies.TouchImageView;
 import com.malviya.rangoliproject.utilies.Utilities;
 
 import java.util.ArrayList;
 
-public class FullScreenImageAdapter extends PagerAdapter implements View.OnClickListener {
+public class FullScreenImageAdapter extends PagerAdapter implements View.OnClickListener, View.OnLongClickListener {
 
     private Activity _activity;
     private ArrayList<Information> _imagePaths;
@@ -80,5 +80,10 @@ public class FullScreenImageAdapter extends PagerAdapter implements View.OnClick
                 _activity.finish();
                 break;
         }
+    }
+
+    @Override
+    public boolean onLongClick(View v) {
+        return false;
     }
 }

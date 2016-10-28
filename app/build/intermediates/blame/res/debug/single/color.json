@@ -64,12 +64,20 @@
         "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_send_button_text_color.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\RangoliProject\\facebook-android-sdk-4.17.0\\unspecified\\res\\color\\com_facebook_send_button_text_color.xml"
+    },
+    {
         "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
         "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
         "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
         "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_button_text_color.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\RangoliProject\\facebook-android-sdk-4.17.0\\unspecified\\res\\color\\com_facebook_button_text_color.xml"
     },
     {
         "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",

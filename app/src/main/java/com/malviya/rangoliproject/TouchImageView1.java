@@ -233,3 +233,204 @@ public class TouchImageView extends ImageView {
 		fixTrans();
 	}
 }*/
+
+
+/* private void saveImage() {
+        OutputStream outputStream;
+        Bitmap bitmap= BitmapFactory.decodeResource(getResources(),R.drawable.diwali_special_5);
+        Log.i("Directory","bitmap"+bitmap);
+        String  filePath = Environment.getExternalStorageDirectory().getPath();
+        Log.i("Directory","file path"+filePath);
+        File dir = new File(filePath +"/RangoliApp");
+        Log.i("Directory","file dir"+dir);
+        if(!dir.exists()){
+            if(dir.mkdirs()){
+                Log.i("Directory","RangoliApp Directory created!!");
+            }
+            else{
+                Log.i("Directory","RangoliApp Directory not created!!");
+            }
+        }
+        else
+        {
+            Log.i("Directory","RangoliApp Directory is already created!!");
+            File file =new File(dir,"sandesh.jpg");
+            File pic = Environment.getExternalStoragePublicDirectory(filePath);
+
+            Uri uri=null;
+            String URL="http://www.imnepal.com/wp-content/uploads/2015/10/cultural-diwali-Candle-greeting-cards-wishing-wallpapers-images-pictures.jpg";
+           // uri =Uri.parse(dir.toString()+"/"+"sandesh.jpg");
+            uri =Uri.parse(URL);
+
+            Log.i("Directory","Uri Path"+uri);
+            Intent in = new Intent(Intent.ACTION_SEND);
+            in.setType("image/*");
+            in.putExtra(Intent.EXTRA_STREAM,String.valueOf(uri));
+            startActivity(Intent.createChooser(in, "Share via"));
+
+            try{
+                outputStream=new FileOutputStream(file);
+                bitmap.compress(Bitmap.CompressFormat.JPEG,400,outputStream);
+                outputStream.flush();
+                outputStream.close();
+
+
+            }catch (Exception e){
+                e.getMessage();
+            }
+
+        }
+
+    }
+*/
+
+ /*//store image in external memory
+                bytearrayoutputstream = new ByteArrayOutputStream();
+
+                bm = BitmapFactory.decodeResource(context.getResources(), R.drawable.rangoli1);
+                bm.compress(Bitmap.CompressFormat.PNG, 60, bytearrayoutputstream);
+
+                if (isExternalStorageWritable(Environment.getExternalStorageState())) {
+                   // file = new File(Environment.getExternalStorageDirectory() + "/" + "Rangoli_Archies");
+                    file = new File(Environment.getExternalStorageDirectory() + "/" + infoData.title);
+                    try {
+                                if(file.exists()) {
+                                    if (file.createNewFile()) {
+                                        fileoutputstream = new FileOutputStream(file);
+                                        fileoutputstream.write(bytearrayoutputstream.toByteArray());
+                                        fileoutputstream.flush();
+                                        fileoutputstream.close();
+                                        Toast.makeText(context, "Image Saved Successfully", Toast.LENGTH_LONG).show();
+                                        Toast.makeText(context, "OnLongClick Called at position " + bm, Toast.LENGTH_SHORT).show();
+                                        Toast.makeText(context, "Remaining Memory3: " + getAvailableSpaceInMB() + "MB", Toast.LENGTH_SHORT).show();
+                                    }
+                                }
+
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
+                }
+                if (isExternalStorageWritable(Environment.getExternalStorageState())) {
+                    file1 = new File(Environment.getExternalStorageDirectory().getAbsolutePath(),infoData.title);
+                    try {
+                        byteArrayInputStream = new ByteArrayInputStream(bytearrayoutputstream.toByteArray());
+                        fileInputStream = new FileInputStream(file1);
+                        int image_no= fileInputStream.read(bytearrayoutputstream.toByteArray());
+                        Bitmap bmp = BitmapFactory.decodeStream(fileInputStream);
+                        fileInputStream.close();
+                        Toast.makeText(context, "image_no " + image_no, Toast.LENGTH_SHORT).show();
+                        Toast.makeText(context, "Bitmap " + bmp, Toast.LENGTH_SHORT).show();
+
+
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
+                }*/
+
+/*
+* */
+
+/*  @Override
+    public int getItemCount() {
+        return data.size();
+    }
+
+     // This removes the data from our Dataset and Updates the Recycler View.
+    private void removeItem(Information infoData) {
+
+        int currPosition = data.indexOf(infoData);
+        data.remove(currPosition);
+        notifyItemRemoved(currPosition);
+    }
+
+    // This method adds(duplicates) a Object (item ) to our Data set as well as Recycler View.
+    private void addItem(int position, Information infoData) {
+
+        data.add(position, infoData);
+        notifyItemInserted(position);
+    }
+
+
+*/
+
+/*
+    /* Checks if external storage is available for read and write */
+/*private boolean isExternalStorageWritable(String state) {
+        return Environment.MEDIA_MOUNTED.equals(state);
+        }
+        */
+
+/*
+* /* case R.id.linearViewVertical:
+                linearViewVertical();
+                break;*/
+          /*  case R.id.gridView:
+               gridViewLayout();
+                break;*/
+         /*   case R.id.staggeredViewHorizontal:
+                staggeredViewHorizontal();
+                break;
+            case R.id.staggeredViewVertical:
+                staggeredViewVertical();
+*/
+
+/* /**
+     * Returns a share intent
+     */
+/*
+private void getShareData(String subject, String shareText, String shareImg) {
+        Intent sharingIntent = new Intent(android.content.Intent.ACTION_SEND);
+        sharingIntent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
+        sharingIntent.setType("text/plain");
+        sharingIntent.setType("image*/
+/*");
+
+        sharingIntent.putExtra(android.content.Intent.EXTRA_SUBJECT, subject);
+        if (shareImg != null) {
+        String imagePath = Environment.getExternalStorageDirectory()
+        + "/" + shareImg;
+        File imageFileToShare = new File(imagePath);
+        Uri uri = Uri.fromFile(imageFileToShare);
+        sharingIntent.putExtra(Intent.EXTRA_STREAM, uri);
+        }
+
+        sharingIntent.putExtra(android.content.Intent.EXTRA_TEXT, shareText);
+        startActivity(Intent.createChooser(sharingIntent, "Share via"));
+
+        }
+
+private void staggeredViewVertical() {
+        StaggeredGridLayoutManager mStaggeredVerticalLayoutManager = new StaggeredGridLayoutManager(2, StaggeredGridLayoutManager.VERTICAL); // (int spanCount, int orientation)
+        recyclerView.setLayoutManager(mStaggeredVerticalLayoutManager);
+        }
+
+private void staggeredViewHorizontal() {
+        StaggeredGridLayoutManager mStaggeredHorizontalLayoutManager = new StaggeredGridLayoutManager(3, StaggeredGridLayoutManager.HORIZONTAL); // (int spanCount, int orientation)
+        mStaggeredHorizontalLayoutManager.setAutoMeasureEnabled(true);
+        recyclerView.setLayoutManager(mStaggeredHorizontalLayoutManager);
+        }
+
+private void gridViewLayout() {
+        GridLayoutManager mGridLayoutManager = new GridLayoutManager(this, 2); // (Context context, int spanCount)
+        mGridLayoutManager.setSmoothScrollbarEnabled(true);
+        mGridLayoutManager.setAutoMeasureEnabled(true);
+        mGridLayoutManager.supportsPredictiveItemAnimations();
+        recyclerView.setLayoutManager(mGridLayoutManager);
+        }
+
+private void linearViewVertical() {
+        LinearLayoutManager mLinearLayoutManagerVertical = new LinearLayoutManager(this); // (Context context)
+        mLinearLayoutManagerVertical.setSmoothScrollbarEnabled(true);
+        mLinearLayoutManagerVertical.setAutoMeasureEnabled(true);
+        mLinearLayoutManagerVertical.setOrientation(LinearLayoutManager.VERTICAL);
+        recyclerView.setLayoutManager(mLinearLayoutManagerVertical);
+        }
+
+private void linearViewHorizontal() {
+        LinearLayoutManager mLinearLayoutManagerHorizontal = new LinearLayoutManager(this); // (Context context)
+        mLinearLayoutManagerHorizontal.setSmoothScrollbarEnabled(true);
+        mLinearLayoutManagerHorizontal.setAutoMeasureEnabled(true);
+        mLinearLayoutManagerHorizontal.setOrientation(LinearLayoutManager.HORIZONTAL);
+        recyclerView.setLayoutManager(mLinearLayoutManagerHorizontal);
+        }
+*/

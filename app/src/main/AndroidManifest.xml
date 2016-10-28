@@ -12,17 +12,19 @@
         android:label="@string/app_name"
         android:largeHeap="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activity.MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+        <activity android:name=".activity.MainActivity" />
         <activity android:name=".activity.FullScreenViewActivity" />
         <activity android:name=".activity.FlowerRangoliMainActivity" />
         <activity android:name=".activity.FlowerRangoliFullScreenActivity" />
         <activity android:name=".activity.DotRangoliFullScreenActivity" />
         <activity android:name=".activity.DotRangoliMainActivity" />
+        <activity android:name=".activity.FestivalSpecialRangoliFullScreenActivity" />
+        <activity android:name=".activity.FestivalSpecialRangoliMainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
 
         <activity
             android:name=".main.GameCanvas"

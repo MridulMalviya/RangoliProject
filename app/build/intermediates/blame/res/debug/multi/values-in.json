@@ -368,8 +368,27 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 2012,
+                    "endColumn": 60,
+                    "endOffset": 2068
+                },
+                "from": {
+                    "file": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\RangoliProject\\facebook-android-sdk-4.17.0\\unspecified\\res\\values-in\\values-in.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2073,
                     "endColumn": 83,
-                    "endOffset": 2091
+                    "endOffset": 2152
                 },
                 "from": {
                     "file": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-in\\values-in.xml",
@@ -384,11 +403,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2096,
+                    "startOffset": 2157,
                     "endColumn": 100,
-                    "endOffset": 2192
+                    "endOffset": 2253
                 },
                 "from": {
                     "file": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-in\\values-in.xml",

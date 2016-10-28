@@ -43,4 +43,5 @@ public class FullScreenViewActivity extends AppCompatActivity {
         viewPager.setCurrentItem(position);
     }
 
+
 }

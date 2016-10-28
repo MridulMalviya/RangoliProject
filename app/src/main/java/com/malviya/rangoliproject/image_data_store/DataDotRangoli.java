@@ -46,8 +46,8 @@ public class DataDotRangoli {
 
         String[] Categories = {"Rangoli 1", "Rangoli 2", "Rangoli 3", "Rangoli 4", "Rangoli 5", "Rangoli 6", "Rangoli 7",
                 "Rangoli 8", "Rangoli 9", "Rangoli 10", "Rangoli 11", "Rangoli 12",
-                "Rangoli 13", "Rangoli 14", "Rangoli 15", "Rangoli 16", "Rangoli 13", "Rangoli 14", "Rangoli 15", "Rangoli 16",
-                "Rangoli 13", "Rangoli 14", "Rangoli 15", "Rangoli 16", "Rangoli 13", "Rangoli 14", "Rangoli 15"
+                "Rangoli 13", "Rangoli 14", "Rangoli 15", "Rangoli 16", "Rangoli 17", "Rangoli 18", "Rangoli 19", "Rangoli 20",
+                "Rangoli 21", "Rangoli 22", "Rangoli 23", "Rangoli 24", "Rangoli 25", "Rangoli 26", "Rangoli 27"
         };
 
         for (int i = 0; i < images.length; i++) {
@@ -55,7 +55,6 @@ public class DataDotRangoli {
             Information current = new Information();
             current.title = Categories[i];
             current.imageId = images[i];
-
             data1.add(current);
         }
 

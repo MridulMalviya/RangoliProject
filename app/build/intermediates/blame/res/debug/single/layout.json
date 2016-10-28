@@ -44,6 +44,10 @@
         "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
     },
     {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_smart_device_dialog_fragment.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\RangoliProject\\facebook-android-sdk-4.17.0\\unspecified\\res\\layout\\com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
         "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
@@ -58,6 +62,10 @@
     {
         "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\RangoliProject\\facebook-android-sdk-4.17.0\\unspecified\\res\\layout\\messenger_button_send_white_small.xml"
     },
     {
         "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
@@ -82,6 +90,14 @@
     {
         "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\RangoliProject\\facebook-android-sdk-4.17.0\\unspecified\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\RangoliProject\\facebook-android-sdk-4.17.0\\unspecified\\res\\layout\\messenger_button_send_white_round.xml"
     },
     {
         "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
@@ -136,6 +152,10 @@
         "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\RangoliProject\\facebook-android-sdk-4.17.0\\unspecified\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
         "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
         "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_action.xml"
     },
@@ -152,6 +172,14 @@
         "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\RangoliProject\\facebook-android-sdk-4.17.0\\unspecified\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\RangoliProject\\facebook-android-sdk-4.17.0\\unspecified\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
         "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
         "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
@@ -162,6 +190,10 @@
     {
         "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\RangoliProject\\facebook-android-sdk-4.17.0\\unspecified\\res\\layout\\com_facebook_login_fragment.xml"
     },
     {
         "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
@@ -208,12 +240,24 @@
         "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\RangoliProject\\facebook-android-sdk-4.17.0\\unspecified\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
         "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
         "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\RangoliProject\\facebook-android-sdk-4.17.0\\unspecified\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
         "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\exploded-aar\\RangoliProject\\facebook-android-sdk-4.17.0\\unspecified\\res\\layout\\messenger_button_send_blue_small.xml"
     },
     {
         "merged": "G:\\entertainment\\android\\RangoliProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
